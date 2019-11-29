@@ -23,3 +23,5 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 + Pandas
 + NumPy
 + sklearn
+
+_this poject was originally published by Sayak Paul on datacamp_
